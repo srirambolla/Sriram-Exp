@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+}[A
+[A[C
+
+[A[A[C
+fff
+}
+vcn
